@@ -160,8 +160,9 @@ authorization.
 
 <p>
   💼 <b>LinkedIn:</b> 
-  <a href="https://github.com/MOHAMMED-SHIBILI-8870">
+  <a href="https://www.linkedin.com/in/mohammed-shibili-m/">
     MOHAMMED-SHIBILI-8870
+  </a>
 </p>
 
 <p>
