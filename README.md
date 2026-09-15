@@ -159,7 +159,7 @@ authorization.
 ## 🤝 Connect With Me
 
 <p>
-  💼 <b>LinkedIn:</b> YOUR_LINKEDIN_URL
+  💼 <b>LinkedIn:</b> <a href="https://github.com/MOHAMMED-SHIBILI-8870">
 </p>
 
 <p>
